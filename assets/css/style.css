@@ -130,6 +130,20 @@ main {
     font-size: 280%;
     margin-bottom: 20px;
     text-align: center;
+    text: uppercase;
+}
+
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits-physical > h3, #benefits-mental > h3 {
+    text: uppercase;
+}
+
+div> p {
+    padding: 0 20px;
 }
 
 
