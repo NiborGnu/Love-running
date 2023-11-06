@@ -126,6 +126,11 @@ main {
     margin: 20px auto;
     box-shadow: 0px 0px 2px #3a3a3a;
 }
+
+#benefits {
+    margin: 10px;
+}
+
 #reasons > h2 {
     font-size: 280%;
     margin-bottom: 20px;
@@ -140,6 +145,11 @@ main {
 
 #benefits-physical > h3, #benefits-mental > h3 {
     text: uppercase;
+}
+
+div > h3 > hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
 }
 
 div> p {
