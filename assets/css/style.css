@@ -356,7 +356,7 @@ main {
         left: 10%;
     }
 
-    #text-input:hover {
+    .text-input:hover {
         border-color: #f16c6b;
     }
 
